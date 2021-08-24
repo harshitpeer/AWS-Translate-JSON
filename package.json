@@ -1,0 +1,15 @@
+{
+  "name": "aws-translate-json",
+  "version": "1.0.0",
+  "description": "App to translate JSON Files",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harshit Peer",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-translate": "^3.27.0",
+    "dotenv": "^10.0.0"
+  }
+}
